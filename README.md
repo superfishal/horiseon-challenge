@@ -1,7 +1,9 @@
 # 01 HTML, CSS, and Git: Code Refactor Challenge
 
 Link to Repository : https://github.com/superfishal/horiseon-challenge
+
 Link to deployed Application : https://superfishal.github.io/horiseon-challenge/
+
 Code to clone : git@github.com:superfishal/horiseon-challenge.git
 
 horiseon-challenge is an update to previous site's code with: semantic enhancements, CSS improvement, various other code clean up, organization and best practices.  Many elements were misplaced or missing and needed to be fixed.  A list of criteria and updated code to address the problems is below.
